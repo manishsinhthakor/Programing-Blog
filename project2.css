@@ -1,0 +1,52 @@
+body{
+    background-color: brown;
+    font-family: cursive;
+}
+.nav{
+    background-color:plum;
+    position: fixed;
+
+}
+.nav .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    
+}
+a{color: navy;
+text-decoration: none;
+padding: 60px;
+font: size 20px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.sample{
+    background-image:url("C://Users/candy/Desktop/MANISH/p2.jpg");
+    background-size:cover;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.sample h1{font-size: 40px;
+font-family: monospace;
+color: snow;
+text-shadow: 4px 5px 6px red;
+}
+.sample p{font-size: 20px;
+    letter-spacing: 3px;
+    color: navy;
+    text-shadow: 4px 5px 6px blue;}
+
+
+
+
+
+
+
